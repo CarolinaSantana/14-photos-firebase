@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "photofirebase-b9c46": {
+      "hosting": {
+        "photos-firebase": [
+          "photofirebase-b9c46"
+        ]
+      }
+    }
+  }
+}
